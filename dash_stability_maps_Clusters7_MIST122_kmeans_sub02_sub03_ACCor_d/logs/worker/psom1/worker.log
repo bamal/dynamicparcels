@@ -1,0 +1,83 @@
+Deleting file '/home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/logs/worker/psom1/new_jobs.mat' 
+Deleting file '/home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/logs/worker/psom1/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : cp_report_templates
+Started on 07-Mar-2019 03:23:20
+User: aboukhdhir
+host : pin
+system : unix
+******************************
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/brainsprite.js to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/brainsprite.js
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/backbone/LICENSE.txt to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/backbone/LICENSE.txt
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/backbone/backbone-min.js to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/backbone/backbone-min.js
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/bootstrap/LICENSE.txt to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/bootstrap/LICENSE.txt
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/bootstrap/bootstrap.min.css to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/bootstrap/bootstrap.min.css
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/bootstrap/bootstrap.min.js to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/bootstrap/bootstrap.min.js
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/jquery/LICENSE.txt to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jquery/LICENSE.txt
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/jquery/jquery.min.js to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jquery/jquery.min.js
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/jsImageSlider/active-bg.png to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/active-bg.png
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/jsImageSlider/bullet.png to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/bullet.png
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/jsImageSlider/js-image-slider.css to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/js-image-slider.css
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/jsImageSlider/js-image-slider.js to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/js-image-slider.js
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/jsImageSlider/navbuttons.png to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/navbuttons.png
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/jsImageSlider/thumbs-bar.gif to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/thumbs-bar.gif
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/keen/LICENSE.txt to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/keen/LICENSE.txt
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/keen/keen-dashboards.css to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/keen/keen-dashboards.css
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/keen/keen.min.js to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/keen/keen.min.js
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/keen/meta.js to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/keen/meta.js
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/pretty-json/LICENSE.txt to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/pretty-json/LICENSE.txt
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/pretty-json/pretty-json-min.js to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/pretty-json/pretty-json-min.js
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/pretty-json/pretty-json.css to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/pretty-json/pretty-json.css
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/underscore/LICENSE.txt to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/underscore/LICENSE.txt
+Copying or converting file /usr/local/niak/reports/brain_map/templates/assets/underscore/underscore-min.js to /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/underscore/underscore-min.js
+
+
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/brainsprite.js was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/backbone/LICENSE.txt was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/backbone/backbone-min.js was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/bootstrap/LICENSE.txt was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/bootstrap/bootstrap.min.css was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/bootstrap/bootstrap.min.js was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jquery/LICENSE.txt was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jquery/jquery.min.js was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/active-bg.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/bullet.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/js-image-slider.css was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/js-image-slider.js was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/navbuttons.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/jsImageSlider/thumbs-bar.gif was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/keen/LICENSE.txt was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/keen/keen-dashboards.css was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/keen/keen.min.js was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/keen/meta.js was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/pretty-json/LICENSE.txt was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/pretty-json/pretty-json-min.js was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/pretty-json/pretty-json.css was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/underscore/LICENSE.txt was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/assets/underscore/underscore-min.js was successfully generated!
+
+*********************************************************
+07-Mar-2019 03:23:22 : The job was successfully completed
+Total time used to process the job : 1.93 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : overlay_Proba map::sub02::Network:ACCor_d::State:2
+Started on 07-Mar-2019 03:23:22
+User: aboukhdhir
+host : pin
+system : unix
+******************************
+
+
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub02::Network:ACCor_d::State:2.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub02::Network:ACCor_d::State:2_cm.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub02::Network:ACCor_d::State:2.mat was successfully generated!
+
+*********************************************************
+07-Mar-2019 03:23:28 : The job was successfully completed
+Total time used to process the job : 5.32 sec.
+*********************************************************
+07-Mar-2019 03:23:28 - The manager has requested to end the work asap!
+07-Mar-2019 03:23:28 - The manager has requested to end the work asap!

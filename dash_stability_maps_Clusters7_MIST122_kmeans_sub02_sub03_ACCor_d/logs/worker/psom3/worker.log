@@ -1,0 +1,40 @@
+Deleting file '/home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/logs/worker/psom3/new_jobs.mat' 
+Deleting file '/home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/logs/worker/psom3/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : overlay_Proba map::sub02::Network:ACCor_d::State:1
+Started on 07-Mar-2019 03:23:20
+User: aboukhdhir
+host : pin
+system : unix
+******************************
+
+
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub02::Network:ACCor_d::State:1.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub02::Network:ACCor_d::State:1_cm.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub02::Network:ACCor_d::State:1.mat was successfully generated!
+
+*********************************************************
+07-Mar-2019 03:23:27 : The job was successfully completed
+Total time used to process the job : 6.45 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : overlay_Proba map::sub03::Network:ACCor_d::State:2
+Started on 07-Mar-2019 03:23:27
+User: aboukhdhir
+host : pin
+system : unix
+******************************
+
+
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub03::Network:ACCor_d::State:2.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub03::Network:ACCor_d::State:2_cm.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub03::Network:ACCor_d::State:2.mat was successfully generated!
+
+*********************************************************
+07-Mar-2019 03:23:32 : The job was successfully completed
+Total time used to process the job : 5.42 sec.
+*********************************************************
+07-Mar-2019 03:23:33 - The manager has requested to end the work asap!
+07-Mar-2019 03:23:33 - The manager has requested to end the work asap!

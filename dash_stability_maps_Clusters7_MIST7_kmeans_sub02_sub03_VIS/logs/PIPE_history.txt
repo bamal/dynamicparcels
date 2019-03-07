@@ -1,0 +1,29 @@
+
+Pipeline started on 07-Mar-2019 03:20:32
+user: aboukhdhir, host: pin, system: unix
+*****************************************
+07-Mar-2019 03:20:35 cp_report_templates                            submitted  (1 run | 0 fail | 0 done | 6 left)
+07-Mar-2019 03:20:35 background                                     submitted  (2 run | 0 fail | 0 done | 5 left)
+07-Mar-2019 03:20:35 overlay_Proba map::sub02::Network:VIS::State:1 submitted  (3 run | 0 fail | 0 done | 4 left)
+07-Mar-2019 03:20:35 overlay_Proba map::sub02::Network:VIS::State:2 submitted  (4 run | 0 fail | 0 done | 3 left)
+07-Mar-2019 03:20:35 overlay_Proba map::sub03::Network:VIS::State:1 submitted  (5 run | 0 fail | 0 done | 2 left)
+07-Mar-2019 03:20:35 overlay_Proba map::sub03::Network:VIS::State:2 submitted  (6 run | 0 fail | 0 done | 1 left)
+07-Mar-2019 03:20:36 Stopping idle worker 4 (not enough jobs left to do).
+07-Mar-2019 03:20:36 Stopping idle worker 5 (not enough jobs left to do).
+07-Mar-2019 03:20:36 Stopping idle worker 6 (not enough jobs left to do).
+07-Mar-2019 03:20:36 Stopping idle worker 7 (not enough jobs left to do).
+07-Mar-2019 03:20:38 cp_report_templates                            finished   (5 run | 0 fail | 1 done | 1 left)
+07-Mar-2019 03:20:42 overlay_Proba map::sub02::Network:VIS::State:1 finished   (4 run | 0 fail | 2 done | 1 left)
+07-Mar-2019 03:20:43 background                                     finished   (3 run | 0 fail | 3 done | 1 left)
+07-Mar-2019 03:20:44 overlay_Proba map::sub02::Network:VIS::State:2 finished   (2 run | 0 fail | 4 done | 1 left)
+07-Mar-2019 03:20:44 Stopping idle worker 1 (not enough jobs left to do).
+07-Mar-2019 03:20:47 overlay_Proba map::sub03::Network:VIS::State:2 finished   (1 run | 0 fail | 5 done | 1 left)
+07-Mar-2019 03:20:47 Stopping idle worker 3 (not enough jobs left to do).
+07-Mar-2019 03:20:48 overlay_Proba map::sub03::Network:VIS::State:1 finished   (0 run | 0 fail | 6 done | 1 left)
+07-Mar-2019 03:20:48 brain_map_report                               submitted  (1 run | 0 fail | 6 done | 0 left)
+07-Mar-2019 03:20:48 brain_map_report                               finished   (0 run | 0 fail | 7 done | 0 left)
+07-Mar-2019 03:20:48 Stopping idle worker 2 (not enough jobs left to do).
+
+*******************************************
+Pipeline terminated on 07-Mar-2019 03:20:49
+All jobs have been successfully completed.

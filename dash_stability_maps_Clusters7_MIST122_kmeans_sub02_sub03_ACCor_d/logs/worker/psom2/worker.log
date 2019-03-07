@@ -1,0 +1,58 @@
+Deleting file '/home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/logs/worker/psom2/new_jobs.mat' 
+Deleting file '/home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/logs/worker/psom2/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : background
+Started on 07-Mar-2019 03:23:20
+User: aboukhdhir
+host : pin
+system : unix
+******************************
+
+
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/background.jpg was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/background.mat was successfully generated!
+
+*********************************************************
+07-Mar-2019 03:23:28 : The job was successfully completed
+Total time used to process the job : 7.40 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : overlay_Proba map::sub03::Network:ACCor_d::State:1
+Started on 07-Mar-2019 03:23:28
+User: aboukhdhir
+host : pin
+system : unix
+******************************
+
+
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub03::Network:ACCor_d::State:1.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub03::Network:ACCor_d::State:1_cm.png was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/img/overlay_Proba map::sub03::Network:ACCor_d::State:1.mat was successfully generated!
+
+*********************************************************
+07-Mar-2019 03:23:33 : The job was successfully completed
+Total time used to process the job : 5.30 sec.
+*********************************************************
+Deleting file '/home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/logs/worker/psom2/new_jobs.mat' 
+Deleting file '/home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/logs/worker/psom2/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : brain_map_report
+Started on 07-Mar-2019 03:23:34
+User: aboukhdhir
+host : pin
+system : unix
+******************************
+
+
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/index.html was successfully generated!
+The output file or directory /home/aboukhdhir/Documents/dynpar/results/dash_stability_maps_Clusters7_MIST7_kmeans_sub02_sub03ACCor_d/listMaps.js was successfully generated!
+
+*********************************************************
+07-Mar-2019 03:23:34 : The job was successfully completed
+Total time used to process the job : 0.16 sec.
+*********************************************************
+07-Mar-2019 03:23:34 - The manager has requested to end the work asap!
+07-Mar-2019 03:23:35 - The manager has requested to end the work asap!

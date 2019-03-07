@@ -1,0 +1,12 @@
+warning: implicit conversion from numeric to char
+warning: called from
+    psom_garbage at line 133 column 13
+
+Collecting logs of job cp_report_templates
+Collecting logs of job overlay_Proba map::sub02::Network:VIS::State:1
+Collecting logs of job background
+Collecting logs of job overlay_Proba map::sub02::Network:VIS::State:2
+Collecting logs of job overlay_Proba map::sub03::Network:VIS::State:2
+Collecting logs of job overlay_Proba map::sub03::Network:VIS::State:1
+Collecting logs of job brain_map_report
+Pipeline exited
